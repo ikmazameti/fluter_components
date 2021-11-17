@@ -1,4 +1,4 @@
-import 'package:fluter_components/screens/home_screen.dart';
+import 'package:fluter_components/screens/home/home_screen.dart';
 import 'package:fluter_components/screens/profile_screen.dart';
 import 'package:flutter/material.dart';
 
